@@ -1,6 +1,6 @@
 # Just a demo py app that prints secrets
 
-secret = "secret goes here"
+secret = "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"
 
 def main():
   print("Here is your secret:", secret)
